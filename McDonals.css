@@ -1,0 +1,37 @@
+.cardsize1{
+    width: 440px;
+}
+.footer-store{
+    height: 48px;
+    width: 148px;
+    background-color: black;
+    border: 1px solid #737373;
+    border-radius: 5px;
+    margin-right: 12px;
+    color: white;
+    font-size: 10px;
+    display: flex;
+    /* align-items: center; */
+}
+.store-desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.left{
+    width: 50%;
+    height: 100%;
+    /* border: 2px solid white;
+    background-color: wheat; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #003c56;
+}
+.footer-store img{
+    height: 50%;
+    margin: 13px 10px;
+}
